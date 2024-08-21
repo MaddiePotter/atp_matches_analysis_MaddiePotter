@@ -1,0 +1,152 @@
+---
+title: "atp_matches_QUESTIONS_R"
+output: html_document
+date: "2024-08-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+library(ggplot2)
+library(dplyr)
+df = atp_matches_2016
+df
+```
+
+
+
+
+```{r}
+library(dplyr)
+library(tidyr)
+
+#Exploratory Graphs
+
+df_wins_loses <- df%>%
+  group_by(winner_name) %>%
+  mutate(wins = n()) %>%
+  ungroup() %>%
+  group_by(loser_name)%>%
+  mutate(loses = n())%>%
+  ungroup()
+
+num_columns <- unlist(lapply(df_wins_loses, is.numeric))
+plot(df_wins_loses[, num_columns])
+
+
+```
+
+##Height
+
+```{r}
+#Height Distribution
+
+hist(df$loser_height, xlim = c(150, 220), ylim = c(0,120), xlab = 'Height in cm', ylab= 'Count of Losing Players', labels = TRUE)
+
+hist(df$winner_height, xlim = c(150, 220), ylim = c(0,120), xlab = 'Height in cm', ylab= 'Count of Winning Players', labels = TRUE)
+
+
+#Winner Height vs Loser Height
+ggplot(df_wins_loses, aes(y = wins)) + geom_point(aes(x = winner_height), color = "green", position = "jitter") + geom_point(aes(x = loser_height), color = 'red', position = "jitter")
+```
+
+
+```{r}
+#Height Averages
+mean(df$winner_height)
+mean(df$loser_height)
+
+t.test(df$winner_height, df$loser_height, paired = FALSE) #p-value is 0.2, there is not a significant difference between the distribution of these two populations. Meaning there is not evidence to suggest that the height of winners is significantly different then the height of the losers
+
+```
+
+
+#Wins Prediction
+```{r}
+#It was interesting to explore height based off of the general shape of the plot() graph, but now I will look in to creating a model to predict wins
+
+lm_wins <- lm(wins ~ surface + winner_height + winner_age +loser_height +loser_age + w_ace + w_df + l_ace + l_df + winner_hand + loser_hand, data = df_wins_loses)
+summary(lm_wins)
+
+lm_wins_1 <- lm(wins ~ winner_age +loser_height + w_df + l_ace + winner_hand, data = df_wins_loses)
+summary(lm_wins_1)
+
+#The p-value here is significant meaning that my model better predicts the data then the null hypothesis, however the F-stat is small considering the number of data points. I will further investigate this with some graphing and root mean squared error.
+```
+
+
+
+```{r}
+#Based on my exploration in SQL I will also create a model to predict minutes played each game
+
+lm_minutes <- lm(minutes ~ surface + winner_height + winner_age +loser_height +loser_age + w_ace + w_df + l_ace + l_df + wins + loses, data = df_wins_loses)
+summary(lm_minutes)
+
+lm_minutes_1 <- lm(minutes ~ surface + winner_height + w_ace + w_df + l_ace + l_df, data = df_wins_loses)
+summary(lm_minutes_1)
+
+#This has a significant p-value and a higher F-stat. I will also graph this and see how the model looks.
+```
+
+
+```{r}
+library(Metrics)
+
+#Adding a column for my predicted minutes and for my predicted wins
+
+preds1 <- predict(lm_minutes_1, df_wins_loses)
+df_wins_loses$predicted_minutes <- preds1
+
+
+preds2 <- predict(lm_wins_1, df_wins_loses)
+df_wins_loses$predicted_wins <- preds2
+
+df_wins_loses
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+#Graphing my predicted wins model 
+
+df_wins_loses %>%
+  ggplot(aes(predicted_wins, wins)) +
+  geom_smooth() + 
+  geom_point () +
+  ggtitle("Predicted vs Actual Wins")
+
+rmse(df_wins_loses$wins, df_wins_loses$predicted_wins) 
+
+#The root mean squared error is 5.49 wins, which is quite high and not ideal for this model where the number of wins tends to be very low. Meaning that potential variance of 5.5 predicted wins is not a very accurate model. This indicates that the model did not have enough information. This is also reflected in my visualization.
+
+```
+
+```{r}
+
+df_wins_loses %>%
+  ggplot(aes(predicted_minutes, minutes)) +
+  geom_smooth() + 
+  geom_point () +
+  ggtitle("Predicted vs Actual Minutes")
+
+rmse(df_wins_loses$minutes, df_wins_loses$predicted_minutes) 
+
+#This model is predicting the minutes of each game with more accuracy then my win predictor. My rmse calculation also offers a fairly reasonable variance of 36.4 minutes.
+
+```
+
+
+
+
+
+
+
