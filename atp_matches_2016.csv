@@ -1,0 +1,363 @@
+tourney_name,surface,winner_name,winner_hand,winner_height,winner_ioc,winner_age,loser_name,loser_hand,loser_height,loser_ioc,loser_age,minutes,w_ace,w_df,l_ace,l_df
+Australian Open,Hard,Denis Kudla,R,180,USA,23.41957563,Filip Krajinovic,R,185,SRB,23.89048597,54,10,1,6,9
+Australian Open,Hard,Andreas Seppi,R,190,ITA,31.90691307,Teymuraz Gabashvili,R,188,RUS,30.65571526,220,12,5,17,8
+Australian Open,Hard,Federico Delbonis,L,190,ARG,25.28678987,Ivo Karlovic,R,208,CRO,36.88706366,103,10,5,21,6
+Australian Open,Hard,Gilles Simon,R,183,FRA,31.05817933,Vasek Pospisil,R,193,CAN,25.57152635,167,2,4,19,6
+Australian Open,Hard,Jo Wilfried Tsonga,R,188,FRA,30.75427789,Marcos Baghdatis,R,183,CYP,30.58726899,146,13,3,5,3
+Australian Open,Hard,Guillermo Garcia Lopez,R,188,ESP,32.62422998,Paul Henri Mathieu,R,185,FRA,34.01505818,129,10,5,11,8
+Australian Open,Hard,Daniel Brands,R,196,GER,28.5065024,Victor Estrella,R,173,DOM,35.46064339,144,17,3,6,2
+Australian Open,Hard,Kei Nishikori,R,178,JPN,26.05338809,Philipp Kohlschreiber,R,178,GER,32.25735797,115,5,3,8,4
+Australian Open,Hard,Alexandr Dolgopolov,R,180,UKR,27.19507187,Ricardas Berankis,R,175,LTU,25.57700205,128,10,8,5,2
+Australian Open,Hard,Grigor Dimitrov,R,188,BUL,24.67624914,Paolo Lorenzi,R,183,ITA,34.091718,145,12,1,7,2
+Australian Open,Hard,Nicolas Almagro,R,183,ESP,30.40930869,Julien Benneteau,R,185,FRA,34.07802875,173,38,5,15,5
+Australian Open,Hard,David Goffin,R,163,BEL,25.11430527,Sergiy Stakhovsky,R,193,UKR,30.03148528,156,3,5,10,6
+Australian Open,Hard,Marin Cilic,R,198,CRO,27.3045859,Thiemo De Bakker,R,193,NED,27.32922656,173,19,1,12,4
+Australian Open,Hard,Dusan Lajovic,R,180,SRB,25.5523614,Sam Querrey,R,198,USA,28.28199863,136,17,6,17,6
+Australian Open,Hard,Tomas Berdych,R,196,CZE,30.33538672,Yuki Bhambri,R,183,IND,23.54004107,105,13,1,2,4
+Australian Open,Hard,Fernando Verdasco,L,188,ESP,32.17522245,Rafael Nadal,L,185,ESP,29.62628337,281,20,10,7,6
+Australian Open,Hard,Dudi Sela,R,175,ISR,30.78986995,Benjamin Becker,R,178,GER,34.59000684,121,6,1,8,6
+Australian Open,Hard,Andrey Kuznetsov,R,185,RUS,24.90349076,Ryan Harrison,R,183,USA,23.69883641,117,4,3,10,5
+Australian Open,Hard,Jeremy Chardy,R,188,FRA,28.93086927,Ernests Gulbis,R,190,LAT,27.38398357,283,24,21,25,18
+Australian Open,Hard,Rajeev Ram,R,193,USA,31.83572895,Kevin Anderson,R,203,RSA,29.67008898,168,12,2,14,11
+Australian Open,Hard,Tommy Robredo,R,180,ESP,33.71663244,Malek Jaziri,R,185,TUN,31.9945243,287,20,8,9,10
+Australian Open,Hard,Tim Smyczek,R,175,USA,28.05201917,Daniel Gimeno Traver,R,185,ESP,30.4476386,114,8,2,4,3
+Australian Open,Hard,Radek Stepanek,R,185,CZE,37.14168378,Tatsuma Ito,R,180,JPN,27.66872005,196,14,7,10,3
+Australian Open,Hard,Stanislas Wawrinka,R,183,SUI,30.80903491,Dmitry Tursunov,R,185,RUS,33.10061602,94,14,0,2,2
+Australian Open,Hard,David Ferrer,R,175,ESP,33.79603012,Peter Gojowczyk,R,185,GER,26.51060917,96,7,3,5,2
+Australian Open,Hard,Lleyton Hewitt,R,180,AUS,34.89664613,James Duckworth,R,183,AUS,23.99178645,143,10,3,15,6
+Australian Open,Hard,Steve Johnson,R,188,USA,26.06707734,Aljaz Bedene,R,181,GBR,26.50239562,125,17,5,14,4
+Australian Open,Hard,Feliciano Lopez,L,188,ESP,34.32717317,Daniel Evans,R,175,GBR,25.65639973,88,13,1,5,6
+Australian Open,Hard,Marcel Granollers,R,190,ESP,29.76865161,Matthew Ebden,R,188,AUS,28.14510609,143,5,1,7,5
+Australian Open,Hard,John Isner,R,206,USA,30.72963723,Jerzy Janowicz,R,203,POL,25.18001369,105,37,0,10,4
+Australian Open,Hard,Bernard Tomic,R,193,AUS,23.24161533,Denis Istomin,R,188,UZB,29.36344969,179,16,0,23,1
+Australian Open,Hard,Simone Bolelli,R,183,ITA,30.27789185,Brian Baker,R,190,USA,30.71868583,219,26,0,15,7
+Australian Open,Hard,Gilles Muller,L,193,LUX,32.6954141,Fabio Fognini,R,178,ITA,28.65434634,239,34,8,20,11
+Australian Open,Hard,Santiago Giraldo,R,188,COL,28.14236824,Donald Young,L,183,USA,26.48870637,136,7,1,6,4
+Australian Open,Hard,Andreas Seppi,R,190,ITA,31.90691307,Denis Kudla,R,180,USA,23.41957563,126,13,1,6,3
+Australian Open,Hard,Gilles Simon,R,183,FRA,31.05817933,Evgeny Donskoy,R,185,RUS,25.69472964,238,8,6,7,3
+Australian Open,Hard,Guillermo Garcia Lopez,R,188,ESP,32.62422998,Daniel Brands,R,196,GER,28.5065024,149,5,4,17,4
+Australian Open,Hard,Roger Federer,R,185,SUI,34.44490075,Alexandr Dolgopolov,R,180,UKR,27.19507187,93,25,2,3,7
+Australian Open,Hard,David Goffin,R,163,BEL,25.11430527,Damir Dzumhur,R,172,BIH,23.66324435,157,7,3,3,2
+Australian Open,Hard,Marin Cilic,R,198,CRO,27.3045859,Albert Ramos,L,188,ESP,28.00273785,139,17,0,7,5
+Australian Open,Hard,Dudi Sela,R,175,ISR,30.78986995,Fernando Verdasco,L,188,ESP,32.17522245,169,5,2,9,7
+Australian Open,Hard,Andrey Kuznetsov,R,185,RUS,24.90349076,Jeremy Chardy,R,188,FRA,28.93086927,128,9,3,11,8
+Australian Open,Hard,Gael Monfils,R,193,FRA,29.3798768,Nicolas Mahut,R,190,FRA,33.99041752,100,18,3,2,3
+Australian Open,Hard,Stephane Robert,R,185,FRA,35.67145791,Rajeev Ram,R,193,USA,31.83572895,216,23,6,11,7
+Australian Open,Hard,Milos Raonic,R,196,CAN,25.05954825,Tommy Robredo,R,180,ESP,33.71663244,175,24,6,0,3
+Australian Open,Hard,Viktor Troicki,R,193,SRB,29.93566051,Tim Smyczek,R,175,USA,28.05201917,150,10,3,16,1
+Australian Open,Hard,Lukas Rosol,R,196,CZE,30.48596851,Jack Sock,R,185,USA,23.3155373,136,20,5,21,6
+Australian Open,Hard,Stanislas Wawrinka,R,183,SUI,30.80903491,Radek Stepanek,R,185,CZE,37.14168378,121,15,4,4,4
+Australian Open,Hard,David Ferrer,R,175,ESP,33.79603012,Lleyton Hewitt,R,180,AUS,34.89664613,152,4,1,2,5
+Australian Open,Hard,Steve Johnson,R,188,USA,26.06707734,Thomaz Bellucci,L,188,BRA,28.05201917,88,10,2,3,4
+Australian Open,Hard,John Isner,R,206,USA,30.72963723,Marcel Granollers,R,190,ESP,29.76865161,140,20,4,4,3
+Australian Open,Hard,Bernard Tomic,R,193,AUS,23.24161533,Simone Bolelli,R,183,ITA,30.27789185,181,24,4,8,4
+Australian Open,Hard,John Millman,R,183,AUS,26.59548255,Gilles Muller,L,193,LUX,32.6954141,218,13,5,22,5
+Australian Open,Hard,Novak Djokovic,R,188,SRB,28.65982204,Andreas Seppi,R,190,ITA,31.90691307,141,9,2,5,0
+Australian Open,Hard,Gilles Simon,R,183,FRA,31.05817933,Federico Delbonis,L,190,ARG,25.28678987,102,5,1,6,1
+Australian Open,Hard,Kei Nishikori,R,178,JPN,26.05338809,Guillermo Garcia Lopez,R,188,ESP,32.62422998,168,5,1,11,4
+Australian Open,Hard,Roger Federer,R,185,SUI,34.44490075,Grigor Dimitrov,R,188,BUL,24.67624914,160,13,5,8,3
+Australian Open,Hard,Andrey Kuznetsov,R,185,RUS,24.90349076,Dudi Sela,R,175,ISR,30.78986995,155,10,6,7,5
+Australian Open,Hard,Gael Monfils,R,193,FRA,29.3798768,Stephane Robert,R,185,FRA,35.67145791,104,10,1,3,5
+Australian Open,Hard,Milos Raonic,R,196,CAN,25.05954825,Viktor Troicki,R,193,SRB,29.93566051,106,14,2,5,5
+Australian Open,Hard,Stanislas Wawrinka,R,183,SUI,30.80903491,Lukas Rosol,R,196,CZE,30.48596851,115,18,3,2,6
+Australian Open,Hard,David Ferrer,R,175,ESP,33.79603012,Steve Johnson,R,188,USA,26.06707734,105,3,2,5,4
+Australian Open,Hard,John Isner,R,206,USA,30.72963723,Feliciano Lopez,L,188,ESP,34.32717317,173,44,1,18,8
+Australian Open,Hard,Bernard Tomic,R,193,AUS,23.24161533,John Millman,R,183,AUS,26.59548255,128,20,3,8,1
+Australian Open,Hard,Novak Djokovic,R,188,SRB,28.65982204,Gilles Simon,R,183,FRA,31.05817933,272,9,1,2,4
+Australian Open,Hard,Kei Nishikori,R,178,JPN,26.05338809,Jo Wilfried Tsonga,R,188,FRA,30.75427789,122,3,3,13,8
+Australian Open,Hard,Roger Federer,R,185,SUI,34.44490075,David Goffin,R,163,BEL,25.11430527,88,7,1,5,2
+Australian Open,Hard,Gael Monfils,R,193,FRA,29.3798768,Andrey Kuznetsov,R,185,RUS,24.90349076,157,14,4,0,6
+Australian Open,Hard,Milos Raonic,R,196,CAN,25.05954825,Stanislas Wawrinka,R,183,SUI,30.80903491,224,24,6,9,9
+Australian Open,Hard,David Ferrer,R,175,ESP,33.79603012,John Isner,R,206,USA,30.72963723,124,1,2,18,4
+Australian Open,Hard,Andy Murray,R,190,GBR,28.678987,Bernard Tomic,R,193,AUS,23.24161533,150,18,1,10,2
+Australian Open,Hard,Novak Djokovic,R,188,SRB,28.65982204,Kei Nishikori,R,178,JPN,26.05338809,127,6,2,9,4
+Australian Open,Hard,Roger Federer,R,185,SUI,34.44490075,Tomas Berdych,R,196,CZE,30.33538672,136,9,3,9,5
+Australian Open,Hard,Milos Raonic,R,196,CAN,25.05954825,Gael Monfils,R,193,FRA,29.3798768,137,10,4,14,6
+Australian Open,Hard,Andy Murray,R,190,GBR,28.678987,David Ferrer,R,175,ESP,33.79603012,200,11,8,0,2
+Australian Open,Hard,Novak Djokovic,R,188,SRB,28.65982204,Roger Federer,R,185,SUI,34.44490075,139,10,1,5,1
+Australian Open,Hard,Andy Murray,R,190,GBR,28.678987,Milos Raonic,R,196,CAN,25.05954825,243,9,2,23,8
+Australian Open,Hard,Novak Djokovic,R,188,SRB,28.65982204,Andy Murray,R,190,GBR,28.678987,173,7,3,12,5
+Indian Wells Masters,Hard,Novak Djokovic,R,188,SRB,28.79397673,Milos Raonic,R,196,CAN,25.19370294,77,2,1,4,2
+Indian Wells Masters,Hard,Novak Djokovic,R,188,SRB,28.79397673,Rafael Nadal,L,185,ESP,29.76043806,118,2,3,2,0
+Indian Wells Masters,Hard,Milos Raonic,R,196,CAN,25.19370294,David Goffin,R,163,BEL,25.24845996,120,11,5,3,5
+Indian Wells Masters,Hard,Novak Djokovic,R,188,SRB,28.79397673,Jo Wilfried Tsonga,R,188,FRA,30.88843258,126,3,4,4,7
+Indian Wells Masters,Hard,Rafael Nadal,L,185,ESP,29.76043806,Kei Nishikori,R,178,JPN,26.18754278,93,2,1,3,1
+Indian Wells Masters,Hard,David Goffin,R,163,BEL,25.24845996,Marin Cilic,R,198,CRO,27.43874059,97,7,5,10,1
+Indian Wells Masters,Hard,Milos Raonic,R,196,CAN,25.19370294,Gael Monfils,R,193,FRA,29.51403149,90,7,0,1,5
+Indian Wells Masters,Hard,Novak Djokovic,R,188,SRB,28.79397673,Feliciano Lopez,L,188,ESP,34.46132786,65,3,1,5,0
+Indian Wells Masters,Hard,David Goffin,R,163,BEL,25.24845996,Stanislas Wawrinka,R,183,SUI,30.9431896,145,2,5,6,5
+Indian Wells Masters,Hard,Kei Nishikori,R,178,JPN,26.18754278,John Isner,R,206,USA,30.86379192,130,1,1,23,2
+Indian Wells Masters,Hard,Milos Raonic,R,196,CAN,25.19370294,Tomas Berdych,R,196,CZE,30.46954141,109,8,5,2,4
+Indian Wells Masters,Hard,Marin Cilic,R,198,CRO,27.43874059,Richard Gasquet,R,185,FRA,29.71937029,135,15,5,6,0
+Indian Wells Masters,Hard,Gael Monfils,R,193,FRA,29.51403149,Federico Delbonis,L,190,ARG,25.42094456,78,5,1,0,4
+Indian Wells Masters,Hard,Federico Delbonis,L,190,ARG,25.42094456,Andy Murray,R,190,GBR,28.81314168,166,5,3,0,3
+Indian Wells Masters,Hard,Milos Raonic,R,196,CAN,25.19370294,Bernard Tomic,R,193,AUS,23.37577002,36,9,2,1,0
+Indian Wells Masters,Hard,Gael Monfils,R,193,FRA,29.51403149,Albert Ramos,L,188,ESP,28.13689254,68,0,0,1,3
+Indian Wells Masters,Hard,Novak Djokovic,R,188,SRB,28.79397673,Philipp Kohlschreiber,R,178,GER,32.39151266,99,1,1,3,3
+Indian Wells Masters,Hard,Jo Wilfried Tsonga,R,188,FRA,30.88843258,Sam Querrey,R,198,USA,28.41615332,74,6,2,5,3
+Indian Wells Masters,Hard,Rafael Nadal,L,185,ESP,29.76043806,Fernando Verdasco,L,188,ESP,32.30937714,101,2,5,6,8
+Indian Wells Masters,Hard,John Isner,R,206,USA,30.86379192,Adrian Mannarino,L,183,FRA,27.68788501,88,15,1,1,5
+Indian Wells Masters,Hard,Kei Nishikori,R,178,JPN,26.18754278,Steve Johnson,R,188,USA,26.20123203,116,3,4,8,3
+Indian Wells Masters,Hard,Richard Gasquet,R,185,FRA,29.71937029,Alexandr Dolgopolov,R,180,UKR,27.32922656,94,3,7,4,4
+Indian Wells Masters,Hard,Marin Cilic,R,198,CRO,27.43874059,Leonardo Mayer,R,188,ARG,28.81314168,85,6,2,4,2
+Indian Wells Masters,Hard,Stanislas Wawrinka,R,183,SUI,30.9431896,Andrey Kuznetsov,R,185,RUS,25.03764545,81,3,2,4,2
+Indian Wells Masters,Hard,Philipp Kohlschreiber,R,178,GER,32.39151266,Denis Kudla,R,180,USA,23.55373032,45,3,1,0,1
+Indian Wells Masters,Hard,Feliciano Lopez,L,188,ESP,34.46132786,Guillermo Garcia Lopez,R,188,ESP,32.75838467,66,8,0,3,4
+Indian Wells Masters,Hard,Jack Sock,R,185,USA,23.44969199,Michael Berrer,L,193,GER,35.68240931,75,5,1,4,4
+Indian Wells Masters,Hard,Sam Querrey,R,198,USA,28.41615332,Thiemo De Bakker,R,193,NED,27.46338125,94,8,3,11,0
+Indian Wells Masters,Hard,Jo Wilfried Tsonga,R,188,FRA,30.88843258,Vincent Millot,L,173,FRA,30.09993155,70,9,1,1,3
+Indian Wells Masters,Hard,Rafael Nadal,L,185,ESP,29.76043806,Gilles Muller,L,193,LUX,32.82956879,131,1,2,6,3
+Indian Wells Masters,Hard,Fernando Verdasco,L,188,ESP,32.30937714,Martin Klizan,L,190,SVK,26.65571526,37,2,1,1,7
+Indian Wells Masters,Hard,Gilles Simon,R,183,FRA,31.19233402,Vasek Pospisil,R,193,CAN,25.70568104,88,0,3,0,0
+Indian Wells Masters,Hard,John Isner,R,206,USA,30.86379192,Andreas Seppi,R,190,ITA,32.04106776,73,22,3,7,2
+Indian Wells Masters,Hard,Adrian Mannarino,L,183,FRA,27.68788501,Benoit Paire,R,196,FRA,26.83093771,61,0,1,3,5
+Indian Wells Masters,Hard,Steve Johnson,R,188,USA,26.20123203,John Millman,R,183,AUS,26.72963723,75,3,1,0,2
+Indian Wells Masters,Hard,Kei Nishikori,R,178,JPN,26.18754278,Mikhail Kukushkin,R,183,KAZ,28.19712526,70,1,0,3,3
+Indian Wells Masters,Hard,Richard Gasquet,R,185,FRA,29.71937029,Nicolas Mahut,R,190,FRA,34.12457221,78,2,1,0,2
+Indian Wells Masters,Hard,Alexandr Dolgopolov,R,180,UKR,27.32922656,Robin Haase,R,190,NED,28.91991786,69,6,0,3,7
+Indian Wells Masters,Hard,Leonardo Mayer,R,188,ARG,28.81314168,Viktor Troicki,R,193,SRB,30.0698152,93,1,4,1,3
+Indian Wells Masters,Hard,Marin Cilic,R,198,CRO,27.43874059,Ryan Harrison,R,183,USA,23.8329911,74,5,3,6,3
+Indian Wells Masters,Hard,Andrey Kuznetsov,R,185,RUS,25.03764545,Jeremy Chardy,R,188,FRA,29.06502396,69,4,3,6,10
+Indian Wells Masters,Hard,Stanislas Wawrinka,R,183,SUI,30.9431896,Illya Marchenko,R,185,UKR,28.49555099,65,2,0,2,2
+Indian Wells Masters,Hard,Tomas Berdych,R,196,CZE,30.46954141,Juan Martin Del Potro,R,198,ARG,27.45242984,105,2,2,7,3
+Indian Wells Masters,Hard,Bernard Tomic,R,193,AUS,23.37577002,Rajeev Ram,R,193,USA,31.96988364,91,8,0,4,1
+Indian Wells Masters,Hard,Andy Murray,R,190,GBR,28.81314168,Marcel Granollers,R,190,ESP,29.9028063,100,4,3,2,1
+Indian Wells Masters,Hard,Denis Kudla,R,180,USA,23.55373032,Denis Istomin,R,188,UZB,29.49760438,96,3,2,0,2
+Indian Wells Masters,Hard,Guillermo Garcia Lopez,R,188,ESP,32.75838467,Ernests Gulbis,R,190,LAT,27.51813826,104,0,3,7,6
+Indian Wells Masters,Hard,Mikhail Youzhny,R,183,RUS,33.70020534,Aljaz Bedene,R,181,GBR,26.63655031,161,8,10,7,6
+Indian Wells Masters,Hard,Michael Berrer,L,193,GER,35.68240931,Juan Monaco,R,185,ARG,31.93976728,165,5,5,1,1
+Indian Wells Masters,Hard,Gilles Muller,L,193,LUX,32.82956879,Victor Estrella,R,173,DOM,35.59479808,87,16,3,1,4
+Indian Wells Masters,Hard,Fernando Verdasco,L,188,ESP,32.30937714,Peter Polansky,R,180,CAN,27.72621492,91,4,3,1,1
+Indian Wells Masters,Hard,Andreas Seppi,R,190,ITA,32.04106776,Donald Young,L,183,USA,26.62286105,139,9,4,6,11
+Indian Wells Masters,Hard,Adrian Mannarino,L,183,FRA,27.68788501,Lukas Rosol,R,196,CZE,30.6201232,124,7,1,7,2
+Indian Wells Masters,Hard,Ryan Harrison,R,183,USA,23.8329911,Dusan Lajovic,R,180,SRB,25.68651608,82,6,0,3,3
+Indian Wells Masters,Hard,Illya Marchenko,R,185,UKR,28.49555099,Dmitry Tursunov,R,185,RUS,33.23477071,122,5,3,5,5
+Indian Wells Masters,Hard,Juan Martin Del Potro,R,198,ARG,27.45242984,Tim Smyczek,R,175,USA,28.18617385,69,3,1,1,0
+Indian Wells Masters,Hard,Federico Delbonis,L,190,ARG,25.42094456,Santiago Giraldo,R,188,COL,28.27652293,103,4,7,3,7
+Indian Wells Masters,Hard,Marcel Granollers,R,190,ESP,29.9028063,Damir Dzumhur,R,172,BIH,23.79739904,59,3,2,0,4
+Roland Garros,Clay,Novak Djokovic,R,188,SRB,29.00479124,Yen Hsun Lu,R,180,TPE,32.77481177,90,1,1,2,4
+Roland Garros,Clay,Steve Darcis,R,178,BEL,32.19438741,Marsel Ilhan,R,190,TUR,28.95003422,99,6,1,1,2
+Roland Garros,Clay,Bernard Tomic,R,193,AUS,23.58658453,Brian Baker,R,190,USA,31.06365503,100,14,2,5,5
+Roland Garros,Clay,Paul Henri Mathieu,R,185,FRA,34.36002738,Santiago Giraldo,R,188,COL,28.48733744,243,6,9,16,5
+Roland Garros,Clay,David Ferrer,R,175,ESP,34.14099932,Evgeny Donskoy,R,185,RUS,26.03969884,86,1,5,1,1
+Roland Garros,Clay,Juan Monaco,R,185,ARG,32.15058179,Denis Istomin,R,188,UZB,29.70841889,160,1,1,8,2
+Roland Garros,Clay,Victor Estrella,R,173,DOM,35.80561259,Illya Marchenko,R,185,UKR,28.7063655,146,4,0,6,6
+Roland Garros,Clay,Pablo Cuevas,R,180,URU,30.39014374,Tobias Kamke,R,180,GER,30.00684463,153,11,0,2,3
+Roland Garros,Clay,Malek Jaziri,R,185,TUN,32.3394935,Florian Mayer,R,190,GER,32.63244353,131,1,5,4,5
+Roland Garros,Clay,Tomas Berdych,R,196,CZE,30.68035592,Vasek Pospisil,R,193,CAN,25.91649555,98,6,1,6,4
+Roland Garros,Clay,Nicolas Mahut,R,190,FRA,34.33538672,Ricardas Berankis,R,175,LTU,25.92197125,110,2,4,3,2
+Roland Garros,Clay,Marcel Granollers,R,190,ESP,30.11362081,Fabio Fognini,R,178,ITA,28.99931554,120,4,1,1,2
+Roland Garros,Clay,Stephane Robert,R,185,FRA,36.0164271,Kevin Anderson,R,203,RSA,30.01505818,142,9,7,18,9
+Roland Garros,Clay,Guillermo Garcia Lopez,R,188,ESP,32.96919918,Thiemo De Bakker,R,193,NED,27.67419576,162,9,7,10,1
+Roland Garros,Clay,David Goffin,R,163,BEL,25.45927447,Gregoire Barrere,R,183,FRA,22.2642026,98,3,0,6,2
+Roland Garros,Clay,Carlos Berlocq,R,183,ARG,33.30047912,Paolo Lorenzi,R,183,ITA,34.4366872,111,2,2,0,1
+Roland Garros,Clay,Nicolas Almagro,R,183,ESP,30.75427789,Philipp Kohlschreiber,R,178,GER,32.60232717,157,19,4,5,3
+Roland Garros,Clay,Ernests Gulbis,R,190,LAT,27.72895277,Andreas Seppi,R,190,ITA,32.25188227,128,16,6,4,1
+Roland Garros,Clay,Marcos Baghdatis,R,183,CYP,30.93223819,Gilles Muller,L,193,LUX,33.0403833,117,7,1,10,12
+Roland Garros,Clay,Milos Raonic,R,196,CAN,25.40451745,Janko Tipsarevic,R,180,SRB,31.91786448,129,10,5,4,2
+Roland Garros,Clay,Adrian Mannarino,L,183,FRA,27.89869952,Mikhail Kukushkin,R,183,KAZ,28.40793977,159,12,2,3,1
+Roland Garros,Clay,Jack Sock,R,185,USA,23.6605065,Robin Haase,R,190,NED,29.13073238,195,8,8,11,5
+Roland Garros,Clay,Dustin Brown,R,196,GER,31.45516769,Dudi Sela,R,175,ISR,31.13483915,213,4,3,4,4
+Roland Garros,Clay,Albert Ramos,L,188,ESP,28.34770705,Horacio Zeballos,L,188,ARG,31.07186858,185,8,0,8,5
+Roland Garros,Clay,Gilles Simon,R,183,FRA,31.40314853,Rogerio Dutra Silva,R,178,BRA,32.30116359,159,4,4,0,5
+Roland Garros,Clay,Dusan Lajovic,R,180,SRB,25.8973306,Denis Kudla,R,180,USA,23.76454483,101,1,1,4,3
+Roland Garros,Clay,Viktor Troicki,R,193,SRB,30.28062971,Grigor Dimitrov,R,188,BUL,25.02121834,225,7,2,7,10
+Roland Garros,Clay,Jeremy Chardy,R,188,FRA,29.27583847,Leonardo Mayer,R,188,ARG,29.02395619,160,8,9,9,3
+Roland Garros,Clay,Stanislas Wawrinka,R,183,SUI,31.15400411,Lukas Rosol,R,196,CZE,30.83093771,191,9,4,9,1
+Roland Garros,Clay,Kei Nishikori,R,178,JPN,26.39835729,Simone Bolelli,R,183,ITA,30.62286105,120,4,3,1,2
+Roland Garros,Clay,Andrey Kuznetsov,R,185,RUS,25.24845996,Benjamin Becker,R,178,GER,34.93497604,80,7,3,7,3
+Roland Garros,Clay,Ivan Dodig,R,183,CRO,31.38672142,Mikhail Youzhny,R,183,RUS,33.91101985,256,13,6,4,8
+Roland Garros,Clay,Fernando Verdasco,L,188,ESP,32.52019165,Steve Johnson,R,188,USA,26.41204654,140,5,3,5,5
+Roland Garros,Clay,Igor Sijsling,R,190,NED,28.76386037,Adrian Ungur,R,178,ROU,31.32375086,102,3,8,2,4
+Roland Garros,Clay,Richard Gasquet,R,185,FRA,29.9301848,Thomaz Bellucci,L,188,BRA,28.39698836,128,3,0,1,4
+Roland Garros,Clay,John Isner,R,206,USA,31.07460643,John Millman,R,183,AUS,26.94045175,200,40,5,5,2
+Roland Garros,Clay,Teymuraz Gabashvili,R,188,RUS,31.00068446,Donald Young,L,183,USA,26.83367556,114,8,6,2,6
+Roland Garros,Clay,Ivo Karlovic,R,208,CRO,37.23203285,Albert Montanes,R,175,ESP,35.4880219,108,31,3,3,3
+Roland Garros,Clay,Andy Murray,R,190,GBR,29.02395619,Radek Stepanek,R,185,CZE,37.48665298,221,14,2,4,8
+Roland Garros,Clay,Novak Djokovic,R,188,SRB,29.00479124,Steve Darcis,R,178,BEL,32.19438741,137,4,4,3,5
+Roland Garros,Clay,David Ferrer,R,175,ESP,34.14099932,Juan Monaco,R,185,ARG,32.15058179,192,6,3,1,1
+Roland Garros,Clay,Feliciano Lopez,L,188,ESP,34.67214237,Victor Estrella,R,173,DOM,35.80561259,150,15,0,4,1
+Roland Garros,Clay,Tomas Berdych,R,196,CZE,30.68035592,Malek Jaziri,R,185,TUN,32.3394935,134,11,1,1,3
+Roland Garros,Clay,Marcel Granollers,R,190,ESP,30.11362081,Nicolas Mahut,R,190,FRA,34.33538672,83,3,0,1,3
+Roland Garros,Clay,David Goffin,R,163,BEL,25.45927447,Carlos Berlocq,R,183,ARG,33.30047912,122,4,2,4,0
+Roland Garros,Clay,Jo Wilfried Tsonga,R,188,FRA,31.09924709,Marcos Baghdatis,R,183,CYP,30.93223819,206,5,5,11,3
+Roland Garros,Clay,Milos Raonic,R,196,CAN,25.40451745,Adrian Mannarino,L,183,FRA,27.89869952,96,7,1,4,3
+Roland Garros,Clay,Jack Sock,R,185,USA,23.6605065,Dustin Brown,R,196,GER,31.45516769,110,6,5,4,2
+Roland Garros,Clay,Viktor Troicki,R,193,SRB,30.28062971,Dusan Lajovic,R,180,SRB,25.8973306,119,2,1,5,3
+Roland Garros,Clay,Kei Nishikori,R,178,JPN,26.39835729,Andrey Kuznetsov,R,185,RUS,25.24845996,108,2,1,4,3
+Roland Garros,Clay,Fernando Verdasco,L,188,ESP,32.52019165,Ivan Dodig,R,183,CRO,31.38672142,100,5,0,5,1
+Roland Garros,Clay,Teymuraz Gabashvili,R,188,RUS,31.00068446,Benoit Paire,R,196,FRA,27.04175222,142,6,3,8,5
+Roland Garros,Clay,Novak Djokovic,R,188,SRB,29.00479124,Aljaz Bedene,R,181,GBR,26.84736482,122,5,0,8,2
+Roland Garros,Clay,David Ferrer,R,175,ESP,34.14099932,Feliciano Lopez,L,188,ESP,34.67214237,143,4,5,6,1
+Roland Garros,Clay,Tomas Berdych,R,196,CZE,30.68035592,Pablo Cuevas,R,180,URU,30.39014374,165,10,5,5,0
+Roland Garros,Clay,David Goffin,R,163,BEL,25.45927447,Nicolas Almagro,R,183,ESP,30.75427789,174,10,4,17,9
+Roland Garros,Clay,Ernests Gulbis,R,190,LAT,27.72895277,Jo Wilfried Tsonga,R,188,FRA,31.09924709,40,3,2,0,0
+Roland Garros,Clay,Milos Raonic,R,196,CAN,25.40451745,Andrej Martin,R,180,SVK,26.67214237,161,7,3,0,6
+Roland Garros,Clay,Albert Ramos,L,188,ESP,28.34770705,Jack Sock,R,185,USA,23.6605065,251,8,7,10,2
+Roland Garros,Clay,Viktor Troicki,R,193,SRB,30.28062971,Gilles Simon,R,183,FRA,31.40314853,131,4,3,0,3
+Roland Garros,Clay,Stanislas Wawrinka,R,183,SUI,31.15400411,Jeremy Chardy,R,188,FRA,29.27583847,119,4,2,6,2
+Roland Garros,Clay,Kei Nishikori,R,178,JPN,26.39835729,Fernando Verdasco,L,188,ESP,32.52019165,201,4,7,7,7
+Roland Garros,Clay,John Isner,R,206,USA,31.07460643,Teymuraz Gabashvili,R,188,RUS,31.00068446,187,34,4,4,4
+Roland Garros,Clay,Andy Murray,R,190,GBR,29.02395619,Ivo Karlovic,R,208,CRO,37.23203285,116,8,2,14,5
+Roland Garros,Clay,Tomas Berdych,R,196,CZE,30.68035592,David Ferrer,R,175,ESP,34.14099932,132,5,1,4,3
+Roland Garros,Clay,David Goffin,R,163,BEL,25.45927447,Ernests Gulbis,R,190,LAT,27.72895277,155,7,3,7,9
+Roland Garros,Clay,Albert Ramos,L,188,ESP,28.34770705,Milos Raonic,R,196,CAN,25.40451745,139,2,2,7,4
+Roland Garros,Clay,Stanislas Wawrinka,R,183,SUI,31.15400411,Viktor Troicki,R,193,SRB,30.28062971,176,19,4,9,3
+Roland Garros,Clay,Richard Gasquet,R,185,FRA,29.9301848,Kei Nishikori,R,178,JPN,26.39835729,154,6,2,3,4
+Roland Garros,Clay,Andy Murray,R,190,GBR,29.02395619,John Isner,R,206,USA,31.07460643,160,9,6,18,4
+Roland Garros,Clay,Novak Djokovic,R,188,SRB,29.00479124,Tomas Berdych,R,196,CZE,30.68035592,126,0,1,4,3
+Roland Garros,Clay,Stanislas Wawrinka,R,183,SUI,31.15400411,Albert Ramos,L,188,ESP,28.34770705,115,8,3,2,0
+Roland Garros,Clay,Andy Murray,R,190,GBR,29.02395619,Richard Gasquet,R,185,FRA,29.9301848,203,11,4,2,4
+Roland Garros,Clay,Andy Murray,R,190,GBR,29.02395619,Stanislas Wawrinka,R,183,SUI,31.15400411,155,3,2,1,2
+Roland Garros,Clay,Novak Djokovic,R,188,SRB,29.00479124,Andy Murray,R,190,GBR,29.02395619,183,4,3,5,3
+Wimbledon,Grass,Novak Djokovic,R,188,SRB,29.10061602,James Ward,R,190,GBR,29.3798768,122,7,1,10,5
+Wimbledon,Grass,Sam Querrey,R,198,USA,28.72279261,Lukas Rosol,R,196,CZE,30.92676249,201,33,5,13,9
+Wimbledon,Grass,Damir Dzumhur,R,172,BIH,24.10403833,Denis Kudla,R,180,USA,23.86036961,186,4,5,11,11
+Wimbledon,Grass,Nicolas Mahut,R,190,FRA,34.4312115,Brydan Klein,R,183,AUS,26.48870637,119,8,2,12,8
+Wimbledon,Grass,David Ferrer,R,175,ESP,34.23682409,Dudi Sela,R,175,ISR,31.23066393,74,3,2,2,2
+Wimbledon,Grass,Edouard Roger Vasselin,R,188,FRA,32.58042437,Teymuraz Gabashvili,R,188,RUS,31.09650924,140,7,3,10,6
+Wimbledon,Grass,Nicolas Almagro,R,183,ESP,30.85010267,Rogerio Dutra Silva,R,178,BRA,32.39698836,185,14,7,11,3
+Wimbledon,Grass,Denis Istomin,R,188,UZB,29.80424367,Kevin Anderson,R,203,RSA,30.11088296,215,13,6,28,5
+Wimbledon,Grass,Jack Sock,R,185,USA,23.75633128,Ernests Gulbis,R,190,LAT,27.82477755,92,5,3,7,11
+Wimbledon,Grass,Andreas Seppi,R,190,ITA,32.34770705,Guillermo Garcia Lopez,R,188,ESP,33.06502396,94,8,2,5,7
+Wimbledon,Grass,Alexandr Dolgopolov,R,180,UKR,27.63586585,Evgeny Donskoy,R,185,RUS,26.13552361,119,13,4,8,3
+Wimbledon,Grass,Jeremy Chardy,R,188,FRA,29.37166324,Gael Monfils,R,193,FRA,29.82067077,156,12,4,19,7
+Wimbledon,Grass,Steve Johnson,R,188,USA,26.50787132,Malek Jaziri,R,185,TUN,32.43531828,127,9,7,8,5
+Wimbledon,Grass,Gilles Simon,R,183,FRA,31.49897331,Janko Tipsarevic,R,180,SRB,32.01368925,209,6,2,6,4
+Wimbledon,Grass,Marin Cilic,R,198,CRO,27.74537988,Brian Baker,R,190,USA,31.15947981,109,18,4,4,5
+Wimbledon,Grass,Lukas Lacko,R,185,SVK,28.64887064,Paolo Lorenzi,R,183,ITA,34.53251198,174,10,1,10,3
+Wimbledon,Grass,Andrey Kuznetsov,R,185,RUS,25.34428474,Pablo Cuevas,R,180,URU,30.48596851,158,6,1,15,2
+Wimbledon,Grass,Gilles Muller,L,193,LUX,33.13620808,Santiago Giraldo,R,188,COL,28.58316222,255,51,4,14,2
+Wimbledon,Grass,Julien Benneteau,R,185,FRA,34.51882272,Illya Marchenko,R,185,UKR,28.80219028,134,12,0,8,6
+Wimbledon,Grass,Mikhail Youzhny,R,183,RUS,34.00684463,Horacio Zeballos,L,188,ARG,31.16769336,141,5,0,11,2
+Wimbledon,Grass,Tomas Berdych,R,196,CZE,30.7761807,Ivan Dodig,R,183,CRO,31.4825462,203,14,6,18,4
+Wimbledon,Grass,Mikhail Kukushkin,R,183,KAZ,28.50376454,Martin Klizan,L,190,SVK,26.96235455,170,5,5,12,1
+Wimbledon,Grass,Bernard Tomic,R,193,AUS,23.68240931,Fernando Verdasco,L,188,ESP,32.61601643,165,11,7,28,7
+Wimbledon,Grass,Donald Young,L,183,USA,26.92950034,Leonardo Mayer,R,188,ARG,29.11978097,171,3,3,5,8
+Wimbledon,Grass,Juan Martin Del Potro,R,198,ARG,27.75906913,Stephane Robert,R,185,FRA,36.11225188,91,5,3,10,8
+Wimbledon,Grass,Richard Gasquet,R,185,FRA,30.02600958,Aljaz Bedene,R,181,GBR,26.9431896,132,7,2,7,4
+Wimbledon,Grass,Marcel Granollers,R,190,ESP,30.20944559,Victor Estrella,R,173,DOM,35.90143737,158,7,4,2,3
+Wimbledon,Grass,Albert Ramos,L,188,ESP,28.44353183,Vasek Pospisil,R,193,CAN,26.01232033,146,8,3,16,2
+Wimbledon,Grass,John Isner,R,206,USA,31.17043121,Marcos Baghdatis,R,183,CYP,31.02806297,136,33,4,9,6
+Wimbledon,Grass,Dustin Brown,R,196,GER,31.55099247,Dusan Lajovic,R,180,SRB,25.99315537,127,7,8,14,3
+Wimbledon,Grass,Fabio Fognini,R,178,ITA,29.09514031,Federico Delbonis,L,190,ARG,25.72758385,168,2,6,11,4
+Wimbledon,Grass,Feliciano Lopez,L,188,ESP,34.76796715,Rajeev Ram,R,193,USA,32.27652293,103,16,2,9,4
+Wimbledon,Grass,Benoit Paire,R,196,FRA,27.137577,Franco Skugor,R,193,CRO,28.76933607,233,17,9,8,4
+Wimbledon,Grass,John Millman,R,183,AUS,27.03627652,Albert Montanes,R,175,ESP,35.58384668,178,7,3,9,4
+Wimbledon,Grass,Yen Hsun Lu,R,180,TPE,32.87063655,Alexander Kudryavtsev,R,183,RUS,30.66940452,92,9,1,4,4
+Wimbledon,Grass,Novak Djokovic,R,188,SRB,29.10061602,Adrian Mannarino,L,183,FRA,27.9945243,124,6,8,5,3
+Wimbledon,Grass,Sam Querrey,R,198,USA,28.72279261,Thomaz Bellucci,L,188,BRA,28.49281314,95,10,2,5,6
+Wimbledon,Grass,Nicolas Mahut,R,190,FRA,34.4312115,David Ferrer,R,175,ESP,34.23682409,117,9,3,2,3
+Wimbledon,Grass,David Goffin,R,163,BEL,25.55509925,Edouard Roger Vasselin,R,188,FRA,32.58042437,84,6,2,0,3
+Wimbledon,Grass,Denis Istomin,R,188,UZB,29.80424367,Nicolas Almagro,R,183,ESP,30.85010267,111,10,0,9,2
+Wimbledon,Grass,Jack Sock,R,185,USA,23.75633128,Robin Haase,R,190,NED,29.22655715,136,17,5,14,3
+Wimbledon,Grass,Milos Raonic,R,196,CAN,25.50034223,Andreas Seppi,R,190,ITA,32.34770705,117,25,4,2,2
+Wimbledon,Grass,Daniel Evans,R,175,GBR,26.0971937,Alexandr Dolgopolov,R,180,UKR,27.63586585,117,13,2,7,4
+Wimbledon,Grass,Steve Johnson,R,188,USA,26.50787132,Jeremy Chardy,R,188,FRA,29.37166324,122,17,2,7,4
+Wimbledon,Grass,Grigor Dimitrov,R,188,BUL,25.11704312,Gilles Simon,R,183,FRA,31.49897331,182,6,1,3,1
+Wimbledon,Grass,Marin Cilic,R,198,CRO,27.74537988,Sergiy Stakhovsky,R,193,UKR,30.47227926,170,22,1,7,8
+Wimbledon,Grass,Lukas Lacko,R,185,SVK,28.64887064,Ivo Karlovic,R,208,CRO,37.32785763,140,11,5,34,7
+Wimbledon,Grass,Andrey Kuznetsov,R,185,RUS,25.34428474,Gilles Muller,L,193,LUX,33.13620808,103,11,0,13,0
+Wimbledon,Grass,Kei Nishikori,R,178,JPN,26.49418207,Julien Benneteau,R,185,FRA,34.51882272,155,6,3,8,6
+Wimbledon,Grass,Tomas Berdych,R,196,CZE,30.7761807,Benjamin Becker,R,178,GER,35.03080082,83,13,3,3,6
+Wimbledon,Grass,Juan Martin Del Potro,R,198,ARG,27.75906913,Stanislas Wawrinka,R,183,SUI,31.24982888,163,9,4,15,5
+Wimbledon,Grass,Richard Gasquet,R,185,FRA,30.02600958,Marcel Granollers,R,190,ESP,30.20944559,168,2,5,7,2
+Wimbledon,Grass,Albert Ramos,L,188,ESP,28.44353183,Viktor Troicki,R,193,SRB,30.37645448,174,8,5,20,3
+Wimbledon,Grass,Jo Wilfried Tsonga,R,188,FRA,31.19507187,Juan Monaco,R,185,ARG,32.24640657,82,8,1,1,1
+Wimbledon,Grass,Feliciano Lopez,L,188,ESP,34.76796715,Fabio Fognini,R,178,ITA,29.09514031,187,21,11,7,12
+Wimbledon,Grass,John Millman,R,183,AUS,27.03627652,Benoit Paire,R,196,FRA,27.137577,150,1,3,9,8
+Wimbledon,Grass,Andy Murray,R,190,GBR,29.11978097,Yen Hsun Lu,R,180,TPE,32.87063655,100,6,0,0,4
+Wimbledon,Grass,Sam Querrey,R,198,USA,28.72279261,Novak Djokovic,R,188,SRB,29.10061602,176,31,2,7,2
+Wimbledon,Grass,David Goffin,R,163,BEL,25.55509925,Denis Istomin,R,188,UZB,29.80424367,132,7,6,10,1
+Wimbledon,Grass,Milos Raonic,R,196,CAN,25.50034223,Jack Sock,R,185,USA,23.75633128,135,27,3,9,6
+Wimbledon,Grass,Roger Federer,R,185,SUI,34.88569473,Daniel Evans,R,175,GBR,26.0971937,86,11,0,0,8
+Wimbledon,Grass,Steve Johnson,R,188,USA,26.50787132,Grigor Dimitrov,R,188,BUL,25.11704312,173,11,4,8,4
+Wimbledon,Grass,Marin Cilic,R,198,CRO,27.74537988,Lukas Lacko,R,185,SVK,28.64887064,109,19,2,2,3
+Wimbledon,Grass,Kei Nishikori,R,178,JPN,26.49418207,Andrey Kuznetsov,R,185,RUS,25.34428474,117,4,4,8,6
+Wimbledon,Grass,Richard Gasquet,R,185,FRA,30.02600958,Albert Ramos,L,188,ESP,28.44353183,156,6,3,7,3
+Wimbledon,Grass,Jo Wilfried Tsonga,R,188,FRA,31.19507187,John Isner,R,206,USA,31.17043121,264,21,4,38,7
+Wimbledon,Grass,Andy Murray,R,190,GBR,29.11978097,John Millman,R,183,AUS,27.03627652,130,8,0,1,1
+Wimbledon,Grass,Sam Querrey,R,198,USA,28.72279261,Nicolas Mahut,R,190,FRA,34.4312115,119,23,3,9,4
+Wimbledon,Grass,Milos Raonic,R,196,CAN,25.50034223,David Goffin,R,163,BEL,25.55509925,182,22,6,12,7
+Wimbledon,Grass,Roger Federer,R,185,SUI,34.88569473,Steve Johnson,R,188,USA,26.50787132,96,6,2,8,3
+Wimbledon,Grass,Marin Cilic,R,198,CRO,27.74537988,Kei Nishikori,R,178,JPN,26.49418207,43,17,2,0,2
+Wimbledon,Grass,Jo Wilfried Tsonga,R,188,FRA,31.19507187,Richard Gasquet,R,185,FRA,30.02600958,23,2,0,0,0
+Wimbledon,Grass,Milos Raonic,R,196,CAN,25.50034223,Sam Querrey,R,198,USA,28.72279261,151,13,2,15,5
+Wimbledon,Grass,Roger Federer,R,185,SUI,34.88569473,Marin Cilic,R,198,CRO,27.74537988,197,27,0,23,7
+Wimbledon,Grass,Andy Murray,R,190,GBR,29.11978097,Jo Wilfried Tsonga,R,188,FRA,31.19507187,233,14,3,15,7
+Wimbledon,Grass,Milos Raonic,R,196,CAN,25.50034223,Roger Federer,R,185,SUI,34.88569473,204,23,11,16,5
+Wimbledon,Grass,Andy Murray,R,190,GBR,29.11978097,Tomas Berdych,R,196,CZE,30.7761807,117,7,2,5,1
+Wimbledon,Grass,Andy Murray,R,190,GBR,29.11978097,Milos Raonic,R,196,CAN,25.50034223,168,7,2,8,1
+Us Open,Hard,Novak Djokovic,R,188,SRB,29.27310062,Jerzy Janowicz,R,203,POL,25.79329227,157,12,5,5,13
+Us Open,Hard,Mikhail Youzhny,R,183,RUS,34.17932923,Martin Klizan,L,190,SVK,27.13483915,110,6,3,3,13
+Us Open,Hard,James Duckworth,R,183,AUS,24.60506502,Robin Haase,R,190,NED,29.39904175,188,11,7,16,10
+Us Open,Hard,Sergiy Stakhovsky,R,193,UKR,30.64476386,Gastao Elias,R,178,POR,25.76317591,200,6,12,7,6
+Us Open,Hard,Marin Cilic,R,198,CRO,27.91786448,Rogerio Dutra Silva,R,178,BRA,32.56947296,118,12,5,3,10
+Us Open,Hard,Rafael Nadal,L,185,ESP,30.23956194,Denis Istomin,R,188,UZB,29.97672827,126,2,3,3,7
+Us Open,Hard,Andreas Seppi,R,190,ITA,32.52019165,Stephane Robert,R,185,FRA,36.28473648,143,8,6,6,8
+Us Open,Hard,Andrey Kuznetsov,R,185,RUS,25.51676934,Thomaz Bellucci,L,188,BRA,28.66529774,176,12,13,8,10
+Us Open,Hard,Albert Ramos,L,188,ESP,28.61601643,Julien Benneteau,R,185,FRA,34.69130732,201,7,6,10,15
+Us Open,Hard,Federico Delbonis,L,190,ARG,25.90006845,Brian Baker,R,190,USA,31.33196441,224,7,6,9,12
+Us Open,Hard,Gael Monfils,R,193,FRA,29.99315537,Gilles Muller,L,193,LUX,33.30869268,125,6,1,5,7
+Us Open,Hard,Pablo Cuevas,R,180,URU,30.65845311,Dudi Sela,R,175,ISR,31.40314853,182,4,9,3,10
+Us Open,Hard,Benoit Paire,R,196,FRA,27.3100616,Dusan Lajovic,R,180,SRB,26.16563997,158,15,9,2,5
+Us Open,Hard,Ryan Harrison,R,183,USA,24.31211499,Adrian Mannarino,L,183,FRA,28.1670089,138,10,8,4,9
+Us Open,Hard,Milos Raonic,R,196,CAN,25.67282683,Dustin Brown,R,196,GER,31.72347707,103,15,4,2,6
+Us Open,Hard,Ricardas Berankis,R,175,LTU,26.19028063,Malek Jaziri,R,185,TUN,32.60780287,172,6,7,8,9
+Us Open,Hard,Janko Tipsarevic,R,180,SRB,32.18617385,Sam Querrey,R,198,USA,28.89527721,194,17,11,18,15
+Us Open,Hard,Steve Johnson,R,188,USA,26.68035592,Evgeny Donskoy,R,185,RUS,26.30800821,192,15,6,8,5
+Us Open,Hard,Fabio Fognini,R,178,ITA,29.26762491,Teymuraz Gabashvili,R,188,RUS,31.26899384,287,16,12,7,19
+Us Open,Hard,David Ferrer,R,175,ESP,34.40930869,Alexandr Dolgopolov,R,180,UKR,27.80835044,39,3,1,1,4
+Us Open,Hard,Horacio Zeballos,L,188,ARG,31.34017796,Florian Mayer,R,190,GER,32.90075291,123,12,6,5,2
+Us Open,Hard,Illya Marchenko,R,185,UKR,28.97467488,Ivan Dodig,R,183,CRO,31.6550308,230,7,12,11,12
+Us Open,Hard,Damir Dzumhur,R,172,BIH,24.27652293,Bernard Tomic,R,193,AUS,23.85489391,159,5,5,12,8
+Us Open,Hard,Daniel Evans,R,175,GBR,26.2696783,Rajeev Ram,R,193,USA,32.44900753,150,3,3,10,8
+Us Open,Hard,Alessandro Giannessi,L,183,ITA,26.25051335,Denis Kudla,R,180,USA,24.03285421,168,4,9,11,11
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Fernando Verdasco,L,188,ESP,32.78850103,137,7,4,9,3
+Us Open,Hard,Kei Nishikori,R,178,JPN,26.66666667,Benjamin Becker,R,178,GER,35.20328542,130,7,3,7,10
+Us Open,Hard,Nicolas Mahut,R,190,FRA,34.6036961,Philipp Kohlschreiber,R,178,GER,32.87063655,87,3,0,7,7
+Us Open,Hard,Ivo Karlovic,R,208,CRO,37.50034223,Yen Hsun Lu,R,180,TPE,33.04312115,226,61,10,15,16
+Us Open,Hard,Gilles Simon,R,183,FRA,31.67145791,Radek Stepanek,R,185,CZE,37.75496235,111,4,3,4,4
+Us Open,Hard,Paolo Lorenzi,R,183,ITA,34.70499658,Carlos Berlocq,R,183,ARG,33.5687885,105,2,4,2,7
+Us Open,Hard,Marcel Granollers,R,190,ESP,30.38193018,Juan Monaco,R,185,ARG,32.41889117,167,4,2,4,3
+Us Open,Hard,Andy Murray,R,190,GBR,29.29226557,Lukas Rosol,R,196,CZE,31.09924709,111,11,1,3,8
+Us Open,Hard,John Isner,R,206,USA,31.34291581,Steve Darcis,R,178,BEL,32.46269678,174,38,6,4,4
+Us Open,Hard,Jo Wilfried Tsonga,R,188,FRA,31.36755647,James Duckworth,R,183,AUS,24.60506502,180,17,3,11,4
+Us Open,Hard,Kevin Anderson,R,203,RSA,30.28336756,Vasek Pospisil,R,193,CAN,26.18480493,159,16,7,13,9
+Us Open,Hard,Jack Sock,R,185,USA,23.92881588,Mischa Zverev,L,190,GER,29.02121834,83,10,3,4,5
+Us Open,Hard,Marin Cilic,R,198,CRO,27.91786448,Sergiy Stakhovsky,R,193,UKR,30.64476386,99,5,5,4,5
+Us Open,Hard,Rafael Nadal,L,185,ESP,30.23956194,Andreas Seppi,R,190,ITA,32.52019165,137,2,2,3,4
+Us Open,Hard,Andrey Kuznetsov,R,185,RUS,25.51676934,Albert Ramos,L,188,ESP,28.61601643,174,14,5,6,5
+Us Open,Hard,Nicolas Almagro,R,183,ESP,31.02258727,Pablo Cuevas,R,180,URU,30.65845311,144,13,7,14,6
+Us Open,Hard,Marcos Baghdatis,R,183,CYP,31.20054757,Benoit Paire,R,196,FRA,27.3100616,130,2,4,7,4
+Us Open,Hard,Ryan Harrison,R,183,USA,24.31211499,Milos Raonic,R,196,CAN,25.67282683,217,7,12,18,15
+Us Open,Hard,Juan Martin Del Potro,R,198,ARG,27.93155373,Steve Johnson,R,188,USA,26.68035592,128,15,3,4,2
+Us Open,Hard,David Ferrer,R,175,ESP,34.40930869,Fabio Fognini,R,178,ITA,29.26762491,205,7,11,5,13
+Us Open,Hard,Illya Marchenko,R,185,UKR,28.97467488,Damir Dzumhur,R,172,BIH,24.27652293,105,4,9,1,2
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Alessandro Giannessi,L,183,ITA,26.25051335,148,5,5,5,7
+Us Open,Hard,Nicolas Mahut,R,190,FRA,34.6036961,Paul Henri Mathieu,R,185,FRA,34.62833676,117,17,0,5,7
+Us Open,Hard,Ivo Karlovic,R,208,CRO,37.50034223,Donald Young,L,183,USA,27.10198494,140,24,8,0,6
+Us Open,Hard,Grigor Dimitrov,R,188,BUL,25.28952772,Jeremy Chardy,R,188,FRA,29.54414784,186,7,8,11,8
+Us Open,Hard,Paolo Lorenzi,R,183,ITA,34.70499658,Gilles Simon,R,183,FRA,31.67145791,294,1,4,1,7
+Us Open,Hard,Andy Murray,R,190,GBR,29.29226557,Marcel Granollers,R,190,ESP,30.38193018,142,5,3,4,4
+Us Open,Hard,Novak Djokovic,R,188,SRB,29.27310062,Mikhail Youzhny,R,183,RUS,34.17932923,31,0,0,2,0
+Us Open,Hard,Jo Wilfried Tsonga,R,188,FRA,31.36755647,Kevin Anderson,R,203,RSA,30.28336756,170,13,8,13,10
+Us Open,Hard,Jack Sock,R,185,USA,23.92881588,Marin Cilic,R,198,CRO,27.91786448,101,7,1,6,2
+Us Open,Hard,Rafael Nadal,L,185,ESP,30.23956194,Andrey Kuznetsov,R,185,RUS,25.51676934,118,1,6,4,6
+Us Open,Hard,Gael Monfils,R,193,FRA,29.99315537,Nicolas Almagro,R,183,ESP,31.02258727,109,9,7,1,8
+Us Open,Hard,Marcos Baghdatis,R,183,CYP,31.20054757,Ryan Harrison,R,183,USA,24.31211499,172,10,1,8,7
+Us Open,Hard,Juan Martin Del Potro,R,198,ARG,27.93155373,David Ferrer,R,175,ESP,34.40930869,144,6,4,1,4
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Daniel Evans,R,175,GBR,26.2696783,242,12,7,5,16
+Us Open,Hard,Kei Nishikori,R,178,JPN,26.66666667,Nicolas Mahut,R,190,FRA,34.6036961,136,6,4,2,8
+Us Open,Hard,Andy Murray,R,190,GBR,29.29226557,Paolo Lorenzi,R,183,ITA,34.70499658,196,11,6,3,9
+Us Open,Hard,Jo Wilfried Tsonga,R,188,FRA,31.36755647,Jack Sock,R,185,USA,23.92881588,193,11,9,5,6
+Us Open,Hard,Gael Monfils,R,193,FRA,29.99315537,Marcos Baghdatis,R,183,CYP,31.20054757,118,9,3,0,2
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Illya Marchenko,R,185,UKR,28.97467488,165,8,0,5,8
+Us Open,Hard,Kei Nishikori,R,178,JPN,26.66666667,Ivo Karlovic,R,208,CRO,37.50034223,121,6,4,21,3
+Us Open,Hard,Andy Murray,R,190,GBR,29.29226557,Grigor Dimitrov,R,188,BUL,25.28952772,120,9,5,2,6
+Us Open,Hard,Novak Djokovic,R,188,SRB,29.27310062,Jo Wilfried Tsonga,R,188,FRA,31.36755647,83,1,3,3,5
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Juan Martin Del Potro,R,198,ARG,27.93155373,192,10,0,3,8
+Us Open,Hard,Kei Nishikori,R,178,JPN,26.66666667,Andy Murray,R,190,GBR,29.29226557,237,1,4,8,3
+Us Open,Hard,Novak Djokovic,R,188,SRB,29.27310062,Gael Monfils,R,193,FRA,29.99315537,152,1,7,11,11
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Kei Nishikori,R,178,JPN,26.66666667,187,10,8,3,6
+Us Open,Hard,Stanislas Wawrinka,R,183,SUI,31.42231348,Novak Djokovic,R,188,SRB,29.27310062,234,9,3,6,7
