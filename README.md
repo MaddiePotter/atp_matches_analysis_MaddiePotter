@@ -1,1 +1,1 @@
-# githubtest
+# This project explores the 2016 Men's tennis data from the four major grand slams (Austeralian Open, French Open, Wimbeldon and US Open). Data sourced from https://github.com/JeffSackmann/tennis_atp. I use SQL to clean and explore the data base; gaining some initial direction and curiosity. Then I take the cleaned file to R and perform further analysis, ultimately creating a regression model to predict wins and minutes played in each game. These files will take you through the steps in my process and how I reached my final conclusions on the data. 
