@@ -1,8 +1,5 @@
-USE [atp_matches]
-SELECT *
-FROM atp_matches_2016;
 
---QUESTIONS
+--Exploring the data in SQL
 
 --Section 1
 --Q1: Total number of distinct players
@@ -14,7 +11,7 @@ FROM atp_matches_2016
 ORDER BY player_name ASC;
 
 
---Q1a: All player height
+--Q1a: Height of every distinct player
 WITH player_name_height AS (
 SELECT winner_name AS 'Player_Name', winner_height AS 'Player_Height'
 FROM atp_matches_2016
@@ -27,37 +24,7 @@ FROM player_name_height
 ORDER BY Player_Height_cm ASC;
 
 
---Q1a: Average Winner Height
-WITH winner_distinct_height AS (
-    SELECT distinct winner_name, winner_height
-	FROM atp_matches_2016
-)
-SELECT AVG(1.00 * winner_height)
-FROM winner_distinct_height;
-
-
---Q1b: Average Loser Height
-WITH loser_distinct_height AS (
-    SELECT distinct loser_name, loser_height
-	FROM atp_matches_2016
-)
-SELECT AVG(1.00 * loser_height)
-FROM loser_distinct_height;
-
-
---Q1d: Loser Height Distribution 
-SELECT COUNT(loser_height), (1.00 * loser_height) AS 'Loser_Height_cm'
-FROM atp_matches_2016
-GROUP BY loser_height;
-
-
---Q1d: Winner Height Distribution
-SELECT COUNT(winner_height), (1.00 * winner_height) AS 'Winner_Height_cm'
-FROM atp_matches_2016
-GROUP BY winner_height;
-
-
---	Q1d: Count of players height
+--Q1d: Count of players at each height
 WITH player_name_height AS (
 SELECT winner_name AS 'Player_Name', winner_height AS 'Player_Height'
 FROM atp_matches_2016
@@ -68,6 +35,7 @@ FROM atp_matches_2016
 SELECT COUNT(Player_Name), (1.00 * Player_Height) AS 'Player_Height_cm'
 FROM player_name_height
 GROUP BY Player_Height;
+
 
 
 -- Q1e: Count of players in height distribution
@@ -102,7 +70,40 @@ ORDER BY CASE Heights_in_cm
          END;
 
 
---Q3: All Player Country
+
+--Q1a: Average Winner Height
+WITH winner_distinct_height AS (
+    SELECT distinct winner_name, winner_height
+	FROM atp_matches_2016
+)
+SELECT AVG(1.00 * winner_height)
+FROM winner_distinct_height;
+
+
+--Q1b: Average Loser Height
+WITH loser_distinct_height AS (
+    SELECT distinct loser_name, loser_height
+	FROM atp_matches_2016
+)
+SELECT AVG(1.00 * loser_height)
+FROM loser_distinct_height;
+
+
+--Q1d: Loser Height Distribution 
+SELECT COUNT(loser_height), (1.00 * loser_height) AS 'Loser_Height_cm'
+FROM atp_matches_2016
+GROUP BY loser_height;
+
+
+--Q1d: Winner Height Distribution
+SELECT COUNT(winner_height), (1.00 * winner_height) AS 'Winner_Height_cm'
+FROM atp_matches_2016
+GROUP BY winner_height;
+
+--The distribution in winner height vs loser height, and the difference in winner avg height vs loser avg height could potentially 
+--be significant. This is analysis I will pursue when I move over to R.
+
+--Q3: The country of origin for every distinct player
 WITH player_name_ioc AS (
 SELECT winner_name AS 'Player_Name', winner_ioc AS 'Player_IOC'
 FROM atp_matches_2016
@@ -114,7 +115,7 @@ SELECT player_name, player_ioc
 FROM player_name_ioc
 ORDER BY player_ioc ASC;
 
---	Q3a: Player country distribution
+--Q3a: Player country distribution
 WITH player_name_ioc AS (
 SELECT winner_name AS 'Player_Name', winner_ioc AS 'Player_IOC'
 FROM atp_matches_2016
@@ -128,7 +129,7 @@ GROUP BY player_ioc
 ORDER BY 1 DESC;
 
 
---	Q3b: Top 5 Countries with the most wins 
+--Q3b: Top 5 Countries with the most wins 
 WITH winner_distinct_IOC AS (
     SELECT distinct winner_name, winner_ioc
 	FROM atp_matches_2016
@@ -140,7 +141,7 @@ GROUP BY winner_ioc
 ORDER BY 1 DESC;
 
 
---	Q3c: Top 5 Countries with the most loses
+--Q3c: Top 5 Countries with the most loses
 WITH loser_distinct_IOC AS (
     SELECT distinct loser_name, loser_ioc
 	FROM atp_matches_2016
@@ -153,24 +154,8 @@ ORDER BY 1 DESC;
 
 
 --Section 2
-
-With player_name_full AS (
-SELECT winner_name AS 'player_name'
-FROM atp_matches_2016
-UNION ALL
-SELECT loser_name
-FROM atp_matches_2016
-),
-player_count_total AS (
-SELECT player_name, count(player_name) as 'player_count'
-FROM player_name_full
-GROUP BY player_name
-)
-Select *
-FROM atp_matches_2016
-INNER JOIN player_count_total ON atp_matches_2016.loser_name = player_count_total.player_name;
-
-
+--After seeing a potential significant difference in the height of winners and losers, I am interested in what other factors could influence wins and loses.
+--In this section I explore the top 5 winners and losers to see if there is a factor besides height that is worth further pursuing in R.
 
 --Q1: Top 5 players with the most wins
 SELECT TOP (5)
@@ -181,9 +166,9 @@ Group BY winner_name
 ORDER BY 2 DESC;
 
 
---	Q1a: Count of aces per player
---	Q1b: Count of double faults per player
---	Q1c: average match length game per player
+--Q1a: Count of aces per player
+--Q1b: Count of double faults per player
+--Q1c: average match length game per player
 SELECT TOP (5)
 winner_name, count(winner_name) AS 'win_count',avg(minutes) AS 'avg_minutes', avg(winner_age) AS 'avg_age', 
 avg(winner_height) AS 'avg_height', avg(w_ace) AS 'avg_num_of_aces', 
@@ -202,9 +187,9 @@ Group BY loser_name
 ORDER BY 2 DESC;
 
 
---	Q2a: Count of aces per player
---	Q2b: Count of double faults per player
---	Q2c: average match length game per player
+--Q2a: Count of aces per player
+--Q2b: Count of double faults per player
+--Q2c: average match length game per player
 SELECT Top (5)
 loser_name, count(loser_name) AS 'lose_count', avg(minutes) AS 'avg_minutes', 
 avg(loser_age) AS 'avg_age', 
@@ -214,8 +199,12 @@ FROM atp_matches_2016
 Group By loser_name
 ORDER BY lose_count DESC;
 
+--There appeared to be some difference in double faults and in age. I will explore this later in R.
 
 --SECTION 3
+--Finally I am interested in the minutes played and the differences between court types.
+
+
 --Q1: Hard Court vs Grass vs Clay
 --Q1a: what percent of games were played on which surface
 SELECT 
